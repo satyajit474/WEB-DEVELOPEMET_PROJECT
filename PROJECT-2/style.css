@@ -1,0 +1,80 @@
+.container{
+    height: 100vh;
+    width: 45vw;
+    background-color: black;
+    margin-left: 400px;
+    border-radius: 10px;
+    box-shadow: 20px 13px 20px 20px grey;.
+       
+    }
+    .container :hover{
+        
+        cursor: pointer;
+    
+    }
+    .heading{
+        color: white;
+        align-items: center;
+    
+    }
+    .upr-header{
+        font-family: 'ui-monospace';
+    }
+    header{position: relative;
+        top: 8px;
+        text-align: center;
+    }
+    span > h2{
+        position: relative;
+        left: 10px;
+        font-family: 'Times New Roman';
+    }
+    span > p{
+        text-align: center;
+        text-decoration:;
+    }
+    .line{
+        border: 2px dotted white;
+        position: relative;
+        bottom: 8px;
+    }
+    footer{
+        color: white;
+        text-align: center;
+    }
+   
+.container :hover{
+    
+    cursor: pointer;
+
+}
+.heading{
+    color: white;
+    align-items: center;
+
+}
+.upr-header{
+    font-family: 'ui-monospace';
+}
+header{position: relative;
+    top: 8px;
+    text-align: center;
+}
+span > h2{
+    position: relative;
+    left: 10px;
+    font-family: 'Times New Roman';
+}
+span > p{
+    text-align: center;
+    text-decoration:;
+}
+.line{
+    border: 2px dashed white;
+    position: relative;
+    bottom: 8px;
+}
+footer{
+    color: white;
+    text-align: center;
+}
